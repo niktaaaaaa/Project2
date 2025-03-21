@@ -1,0 +1,196 @@
+.container > div {
+    font-family: MyFont;
+    font-size: 18px;
+    border-radius: 7px;
+}
+
+img {
+    width: 65%;
+}
+#txt0{
+    margin: 12px;
+}
+.p1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    padding: 0;
+}
+
+.p2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: scale(0.6);
+}
+
+.pic-style1, .pic-style2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+}
+
+.p4 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+/*.p5 {*/
+/*    display: flex;*/
+/*    justify-content: flex-end;*/
+/*    align-items: center;*/
+/*    width: 100%;*/
+/*}*/
+
+.pic-style3 {
+    display: flex;
+    justify-content: center;
+    align-self: end;
+    /*margin-top: 8px;*/
+}
+
+.p7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#txt7 {
+    font-size: 52px;
+    margin: 12px;
+    margin-bottom: 0;
+}
+
+#txt72 {
+
+    margin: 12px;
+    margin-top: 0;
+}
+
+#txt3 {
+    font-size: 18px;
+    margin-top: 0;
+
+    margin-bottom: 50px;
+}
+
+#txt4 {
+    margin-bottom: 0;
+}
+
+#txt2 {
+    font-size: 30px;
+}
+
+.box1 p {
+    font-size: 32px;
+    margin-top: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+    direction: ltr;
+    line-height: 1;
+
+}
+
+.box2 p {
+    text-align: center;
+    color: white;
+    font-size: 54px;
+    line-height: 0.9;
+    margin: 20px;
+    margin-top: 50px;
+}
+
+
+.box3 p {
+    margin-top: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
+    direction: ltr;
+    line-height: 1;
+}
+
+.box4 p {
+    font-size: 40px;
+    margin-top: 10px;
+    margin-left: 12px;
+    margin-right: 20px;
+    direction: ltr;
+    line-height: 0.9;
+}
+
+.box5 p {
+    line-height: 1;
+    font-size: 32px;
+    margin: 15px;
+}
+
+.box6 p {
+    font-size: 28px;
+    margin: 15px;
+    line-height: 0.9;
+}
+
+.box1 {
+    background-color: hsl(31, 66%, 93%);
+}
+
+.box2 {
+    background-color: hsl(256, 67%, 59%);
+
+}
+
+.box3 {
+    background-color: hsl(254, 88%, 90%);
+}
+
+.box4 {
+    background-color: hsl(39, 100%, 71%);
+}
+
+.box5 {
+    background-color: white;
+}
+
+.box6 {
+    background-color: hsl(39, 100%, 71%);
+}
+
+.box7 {
+    background-color: white;
+}
+
+.box8 {
+    background-color: hsl(256, 67%, 59%);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.p8 img {
+    width: 100%;
+    height: auto;
+    margin-left: 18px;
+    margin-top: 18px;
+    margin-right: 25px;
+}
+
+#txt8 {
+    font-size: 42px;
+    line-height: 1;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+@font-face {
+    font-family: "MyFont";
+    src: url(DMSans-Regularr.ttf);
+
+}
