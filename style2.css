@@ -7,9 +7,11 @@
 img {
     width: 65%;
 }
-#txt0{
+
+#txt0 {
     margin: 12px;
 }
+
 .p1 {
     display: flex;
     justify-content: center;
@@ -40,18 +42,11 @@ img {
     margin-top: 10px;
 }
 
-/*.p5 {*/
-/*    display: flex;*/
-/*    justify-content: flex-end;*/
-/*    align-items: center;*/
-/*    width: 100%;*/
-/*}*/
-
 .pic-style3 {
     display: flex;
     justify-content: center;
     align-self: end;
-    /*margin-top: 8px;*/
+  
 }
 
 .p7 {
@@ -129,11 +124,13 @@ img {
     line-height: 1;
     font-size: 32px;
     margin: 15px;
+    margin-top: 0;
 }
 
 .box6 p {
     font-size: 28px;
-    margin: 15px;
+    margin-left: 12px;
+    margin-bottom: 10px;
     line-height: 0.9;
 }
 
@@ -192,5 +189,4 @@ img {
 @font-face {
     font-family: "MyFont";
     src: url(DMSans-Regularr.ttf);
-
 }
